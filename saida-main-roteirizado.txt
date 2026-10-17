@@ -1,0 +1,150 @@
+=== ARENA: execução roteirizada (semente 42) ===
+
+>>> Batalha contra Goblin
+[demonstração] Turno 1: forçando o ataque especial do monstro...
+  REJEITADO: o ataque especial só pode ser usado a partir do turno 2 (turno atual: 1)
+[demonstração] Guerreiro tentando usar Cura...
+  REJEITADO: Conan não conhece a habilidade Cura
+[demonstração] Nada mudou: turno 1, Conan vida 100, Goblin vida 40
+Turno 1:
+  Conan usa Golpe Poderoso e causa 14 de dano
+  Goblin ataca Conan e causa 1 de dano
+  [Conan 99/100 | mana 5 | Goblin 26/40]
+Turno 2:
+  Conan usa Golpe Poderoso e causa 14 de dano
+  Goblin usa Facada Dupla e causa 4 de dano
+  [Conan 95/100 | mana 0 | Goblin 12/40]
+Turno 3:
+  Conan ataca Goblin e causa 6 de dano
+  Goblin ataca Conan e causa 1 de dano
+  [Conan 94/100 | mana 0 | Goblin 6/40]
+Turno 4:
+  Conan ataca Goblin e causa 6 de dano
+  Goblin foi derrotado!
+  [Conan 94/100 | mana 0 | Goblin 0/40]
+Vitória! Recompensa sorteada: Espada Longa (+4 de dano, MAO)
+Pontos distribuídos em força: Atributos[forca=10, defesa=5, magia=1]
+Equipou Espada Longa (bônus de dano 4, defesa total 5)
+
+>>> Batalha contra Orc
+Turno 1:
+  Conan usa Golpe Poderoso e causa 24 de dano
+  Orc ataca Conan e causa 2 de dano
+  [Conan 98/100 | mana 5 | Orc 46/70]
+Turno 2:
+  Conan usa Golpe Poderoso e causa 24 de dano
+  Orc usa Golpe Esmagador e causa 9 de dano
+  [Conan 89/100 | mana 0 | Orc 22/70]
+Turno 3:
+  Conan ataca Orc e causa 10 de dano
+  Orc usa Golpe Esmagador e causa 9 de dano
+  [Conan 80/100 | mana 0 | Orc 12/70]
+Turno 4:
+  Conan ataca Orc e causa 10 de dano
+  Orc bebe uma poção de vida e recupera 30 de vida
+  [Conan 80/100 | mana 0 | Orc 32/70]
+Turno 5:
+  Conan ataca Orc e causa 10 de dano
+  Orc ataca Conan e causa 2 de dano
+  [Conan 78/100 | mana 0 | Orc 22/70]
+Turno 6:
+  Conan ataca Orc e causa 10 de dano
+  Orc ataca Conan e causa 2 de dano
+  [Conan 76/100 | mana 0 | Orc 12/70]
+Turno 7:
+  Conan ataca Orc e causa 10 de dano
+  Orc usa Golpe Esmagador e causa 9 de dano
+  [Conan 67/100 | mana 0 | Orc 2/70]
+Turno 8:
+  Conan ataca Orc e causa 10 de dano
+  Orc foi derrotado!
+  [Conan 67/100 | mana 0 | Orc 0/70]
+Vitória! Recompensa sorteada: Adaga (+2 de dano, MAO)
+Pontos distribuídos em força: Atributos[forca=12, defesa=5, magia=1]
+Equipou Adaga (bônus de dano 2, defesa total 5)
+
+>>> Batalha contra Dragão
+Turno 1:
+  Conan usa Golpe Poderoso e causa 22 de dano
+  Dragão ataca Conan e causa 4 de dano
+  [Conan 96/100 | mana 5 | Dragão 128/150]
+Turno 2:
+  Conan usa Golpe Poderoso e causa 22 de dano
+  Dragão lança Sopro de Fogo e causa 7 de dano
+  [Conan 89/100 | mana 0 | Dragão 106/150]
+Turno 3:
+  Conan ataca Dragão e causa 8 de dano
+  Dragão lança Sopro de Fogo e causa 7 de dano
+  [Conan 82/100 | mana 0 | Dragão 98/150]
+Turno 4:
+  Conan ataca Dragão e causa 8 de dano
+  Dragão lança Sopro de Fogo e causa 7 de dano
+  [Conan 75/100 | mana 0 | Dragão 90/150]
+Turno 5:
+  Conan ataca Dragão e causa 8 de dano
+  Dragão lança Sopro de Fogo e causa 7 de dano
+  [Conan 68/100 | mana 0 | Dragão 82/150]
+Turno 6:
+  Conan ataca Dragão e causa 8 de dano
+  Dragão lança Sopro de Fogo e causa 7 de dano
+  [Conan 61/100 | mana 0 | Dragão 74/150]
+Turno 7:
+  Conan ataca Dragão e causa 8 de dano
+  Dragão lança Sopro de Fogo e causa 7 de dano
+  [Conan 54/100 | mana 0 | Dragão 66/150]
+Turno 8:
+  Conan ataca Dragão e causa 8 de dano
+  Dragão lança Sopro de Fogo e causa 7 de dano
+  [Conan 47/100 | mana 0 | Dragão 58/150]
+Turno 9:
+  Conan ataca Dragão e causa 8 de dano
+  Dragão lança Sopro de Fogo e causa 7 de dano
+  [Conan 40/100 | mana 0 | Dragão 50/150]
+Turno 10:
+  Conan ataca Dragão e causa 8 de dano
+  Dragão lança Sopro de Fogo e causa 7 de dano
+  [Conan 33/100 | mana 0 | Dragão 42/150]
+Turno 11:
+  Conan bebe uma poção de vida e recupera 30 de vida
+  Dragão lança Sopro de Fogo e causa 7 de dano
+  [Conan 56/100 | mana 0 | Dragão 42/150]
+Turno 12:
+  Conan ataca Dragão e causa 8 de dano
+  Dragão lança Sopro de Fogo e causa 7 de dano
+  [Conan 49/100 | mana 0 | Dragão 34/150]
+Turno 13:
+  Conan ataca Dragão e causa 8 de dano
+  Dragão lança Sopro de Fogo e causa 7 de dano
+  [Conan 42/100 | mana 0 | Dragão 26/150]
+Turno 14:
+  Conan ataca Dragão e causa 8 de dano
+  Dragão lança Sopro de Fogo e causa 7 de dano
+  [Conan 35/100 | mana 0 | Dragão 18/150]
+Turno 15:
+  Conan bebe uma poção de vida e recupera 30 de vida
+  Dragão lança Sopro de Fogo e causa 7 de dano
+  [Conan 58/100 | mana 0 | Dragão 18/150]
+Turno 16:
+  Conan ataca Dragão e causa 8 de dano
+  Dragão lança Sopro de Fogo e causa 7 de dano
+  [Conan 51/100 | mana 0 | Dragão 10/150]
+Turno 17:
+  Conan ataca Dragão e causa 8 de dano
+  Dragão lança Sopro de Fogo e causa 7 de dano
+  [Conan 44/100 | mana 0 | Dragão 2/150]
+Turno 18:
+  Conan ataca Dragão e causa 8 de dano
+  Dragão foi derrotado!
+  [Conan 44/100 | mana 0 | Dragão 0/150]
+Vitória! Recompensa sorteada: Elmo de Ferro (+2 de defesa, CABECA)
+Pontos distribuídos em força: Atributos[forca=14, defesa=5, magia=1]
+Equipou Elmo de Ferro (bônus de dano 2, defesa total 7)
+
+=== Fim da campanha: VITÓRIA ===
+Conan: vida 94/100 | Atributos[forca=14, defesa=5, magia=1]
+
+[demonstração] Limite por atributo (20)
+Força levada a 20; pontos restantes: 1
+Tentando colocar mais 1 ponto em força...
+  REJEITADO: força deve estar entre 0 e 20, mas foi 21
+Pontos continuam disponíveis: 1 | Atributos[forca=20, defesa=5, magia=1]
