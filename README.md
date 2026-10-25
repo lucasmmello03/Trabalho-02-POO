@@ -4,7 +4,7 @@
 - **Turma:** Terceiro Semestre
 - **Disciplina:** Programação Orientada a Objetos (TADS)
 - **Java:** 17 ou superior (desenvolvido e testado com OpenJDK 21)
-- **Vídeo:** _[colar o link aqui]_
+- **Vídeo:** https://youtu.be/NZAD8g4FOAo
 
 Mini-RPG de console em Java puro, sem bibliotecas externas. O jogador escolhe Guerreiro, Arqueiro ou Mago
 e enfrenta, em sequência, um Goblin, um Orc e um Dragão.

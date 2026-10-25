@@ -15,11 +15,7 @@ public class Arqueiro extends LutadorFisico {
                 List.of(new AtaqueFisico("Tiro Certeiro")));
     }
 
-    /**
-     * Sobrescreve o ataque herdado do LutadorFisico somando o bônus de precisão.
-     * Não chama {@code super.atacar()} porque ele já aplica o dano no alvo: o bônus precisa entrar
-     * no dano bruto ANTES de o alvo recebê-lo.
-     */
+    
     @Override
     public int atacar(Combatente alvo) {
         if (alvo == null) {
